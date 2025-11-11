@@ -1,0 +1,36 @@
+# --- Core Framework ---
+streamlit
+
+# --- LangChain Core + Integrations ---
+langchain
+langchain-community
+langchain-chroma
+langchain-ollama
+langchain-text-splitters
+
+# --- Vector Database ---
+chromadb
+
+# --- PDF Processing ---
+pdfplumber
+PyMuPDF
+pypdf
+
+# --- OCR (for scanned PDFs) ---
+pdf2image
+pytesseract
+pillow
+
+# --- Utility Libraries ---
+numpy
+pandas
+
+# --- Backend / Misc ---
+tqdm
+requests
+
+# --- Windows-specific (for paths/encoding fixes) ---
+colorama
+
+# --- (Optional but recommended for stability) ---
+faiss-cpu   # Optional: If you switch from Chroma to FAISS later
