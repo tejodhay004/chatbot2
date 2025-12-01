@@ -1,5 +1,9 @@
 # 🧠 Local AI Agent with RAG (Retrieval-Augmented Generation)
 
+Watch the demo video here:  
+👉 Demo Video(https://drive.google.com/file/d/1CfeRNvVRoA6b9X37BQJ5koM0ZLnyoeWN/view?usp=sharing)
+
+
 This project is a **local AI chatbot** powered by **Streamlit**, **LangChain**, **Ollama**, and **Chroma**.  
 It retrieves answers from embedded PDF documents using a Retrieval-Augmented Generation (RAG) pipeline.  
 
